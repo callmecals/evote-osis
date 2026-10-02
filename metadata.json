@@ -1,0 +1,6 @@
+{
+  "name": "E-VOTING OSIS",
+  "description": "Sistem Pemilihan Ketua & Wakil OSIS Digital - Aplikasi pemilihan ketua dan wakil OSIS modern, mobile-first, aman, rahasia, dan transparan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
